@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+    width: 800px;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    font-size: 1rem;
+  }
+  td,
+  th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  tr {
+    height: 1.6rem;
+  }
